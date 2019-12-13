@@ -1,0 +1,9 @@
+.image img{
+  margin-left: 50px;
+  border-radius: 50%;
+}
+
+#image{
+  width: 200px;
+  height: 200px;
+}
